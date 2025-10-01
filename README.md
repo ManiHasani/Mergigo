@@ -11,6 +11,9 @@ A sophisticated 2D physics-based puzzle game built with Python and Pygame, featu
 - **Smooth Animations**: Interpolated scaling, glow effects, and bounce animations
 - **Professional UI**: Hover effects, state management, and responsive interface
 - **Performance Optimized**: Multi-pass collision detection running at 120 FPS
+  
+## ScreenShot
+<img width="501" height="733" alt="Screenshot 2025-10-01 221518" src="https://github.com/user-attachments/assets/6c8354d0-7266-4bb6-b2be-bea0f3e2e8cf" />
 
 ## Installation
 
